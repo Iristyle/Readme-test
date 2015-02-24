@@ -2,7 +2,7 @@
 GHFM Readme Test
 
 # TOC
-* [puppet-agent (Windows)](#puppet-agent (Windows))
+* [puppet-agent (Windows)](#puppet-agent-windows)
 * [H1](#h1)
 * [H2](#h2)
 * [H3](#h3)
